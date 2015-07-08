@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.0" replicaid="65257E7C001E6511" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="13fe" sequence="9" unid="7AEB43E5B017843C80257BB00034669C">
+<created><datetime dst="true">20130722T103221,40+01</datetime></created>
+<modified><datetime>20150708T110213,80+0530</datetime></modified>
+<revised><datetime dst="true">20130919T143533,04-04</datetime></revised>
+<lastaccessed><datetime>20150708T110213,80+0530</datetime></lastaccessed>
+<addedtofile><datetime>20150708T110213,80+0530</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby>
+<item name="$Flags"><text>gC~4;2</text></item>
+<item name="$TITLE"><text>response_zh_TW.properties</text></item>
+
+
+<item name="$FileNames" sign="true"><text>response_zh_TW.properties</text></item></note>
