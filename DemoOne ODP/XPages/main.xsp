@@ -10,4 +10,4 @@
             }
 		}]]>
 	</xp:this.afterPageLoad>
-</xp:view>
+1<xp:br></xp:br>2<xp:br></xp:br>3<xp:br></xp:br></xp:view>
