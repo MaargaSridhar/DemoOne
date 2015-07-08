@@ -16,6 +16,7 @@
  	@version	2.0
  	
  	08-July 2015 - Maarga Changes
+ 	Added from GIT
 */
 
 var CGIVariables = function () {
